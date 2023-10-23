@@ -4,7 +4,12 @@ const Home = () => {
 
   // we want an array to hold the categories
   const categories = [
-    
+    {
+      "id": 11,
+      "title": "x220 = Best Linux Laptop",
+      "imageUrl": "img/wtf-e11.png",
+      "url": "https://www.youtube.com/watch?v=EAYrXoFnqIY"
+    },
     {
       "id": 10,
       "title": "Sonoma on 2012 MacMini",
