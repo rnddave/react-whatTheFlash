@@ -5,6 +5,12 @@ const Home = () => {
   // we want an array to hold the categories
   const categories = [
     {
+      "id": 12,
+      "title": "Mac Pro 3,1 + Sonoma = FAIL",
+      "imageUrl": "img/wtf-e12.png",
+      "url": "https://www.youtube.com/watch?v=22529d7JdFM"
+    },
+    {
       "id": 11,
       "title": "x220 = Best Linux Laptop",
       "imageUrl": "img/wtf-e11.png",
