@@ -5,10 +5,16 @@ const Home = () => {
   // we want an array to hold the categories
   const categories = [
     {
-      "id": 13,
+      "id": 14,
       "title": "MacOS Monterey on a Mac Pro 3,1",
-      "imageUrl": "img/wtf-e13.png",
+      "imageUrl": "img/wtf-e14.png",
       "url": "https://www.youtube.com/watch?v=1HGrBgK4Zwk"
+    },
+    {
+      "id": 13,
+      "title": "Linux Mint & Batocera Dual Boot",
+      "imageUrl": "img/wtf-e13.png",
+      "url": "https://www.youtube.com/watch?v=NC8fld42MSo"
     },
     {
       "id": 12,
